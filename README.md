@@ -5,7 +5,7 @@
 </div>
 
 ##
-  <h2>Acadêmico de Engenharia da Computação PUCRS</h2>
+  <h2>Acadêmico de Engenharia de Software — PUCRS</h2>
   <div> 
   <a href="https://www.instagram.com/guisklherme/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermekollet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
