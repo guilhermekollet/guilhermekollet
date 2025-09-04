@@ -11,7 +11,7 @@ Desenvolvo Soluções que Impulsionam o Brasil. 🇧🇷
 
 ## Soluções
 - **Bolsofy** — Ecossistema de Finanças via WhatsApp e Dashboard Web.
-- **Grupo Fazolli** — Maior Ecossistema de Gestão Operacional à Mentorados de Afiliação Marketplace.
+- **Grupo Fazolli** — Maior Ecossistema de Mentorias e Operações de Afiliação em Marketplaces.
 - **Santaverri** — Maior Clube de Network e Futebol 7 de Porto Alegre.
 
 ## Stack
